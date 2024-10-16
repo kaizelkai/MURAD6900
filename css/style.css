@@ -5,13 +5,16 @@ body{
 .textGrap .gras{
     font-weight: bold;
 }
-.text1{
-    font-family: 'Barlow Condensed', sans-serif;
+.troisieme .text1{
+    font-family: 'Nanum Myeongjo', sans-serif;
     padding-left: 15px;
 }
 h5 {
     margin-bottom: -14px;
     font-size: 18px; /* Ajustez la taille selon vos besoins */
+}
+.bt .buy{
+    background-color: #f200f2;
 }
 @media(min-width:885px){
     .entete {
@@ -173,7 +176,7 @@ h5 {
         text-decoration: none; /* Retire le soulignement des liens */
         padding: 10px 20px; /* Ajoute du padding pour rendre les liens plus cliquables */
         background-color: #0ca7b2; /* Couleur de fond (optionnelle) */
-        border-radius: 5px; /* Coins arrondis (optionnel) */
+        border-radius: 15px; /* Coins arrondis (optionnel) */
         color: rgb(255, 255, 255); /* Couleur du texte */
     }
     .bt a:hover{
@@ -279,7 +282,7 @@ h5 {
         text-decoration: none; /* Retire le soulignement des liens */
         padding: 10px 20px; /* Ajoute du padding pour rendre les liens plus cliquables */
         background-color: #0ca7b2; /* Couleur de fond (optionnelle) */
-        border-radius: 5px; /* Coins arrondis (optionnel) */
+        border-radius: 15px; /* Coins arrondis (optionnel) */
         color: rgb(255, 255, 255); /* Couleur du texte */
     }
 
